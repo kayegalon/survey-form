@@ -77,3 +77,15 @@ input[type="submit"] {
 option {
   color: gray;
 }
+
+@media (max-width: 800px) {
+	body {
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
+	#survey-form {
+		width: 80%;
+		padding-bottom: 2rem;
+		padding-right: 2rem;
+	}
+}
