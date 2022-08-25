@@ -78,7 +78,7 @@ option {
   color: gray;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) and (min-width: 600px) {
 	body {
 		padding-left: 2rem;
 		padding-right: 2rem;
