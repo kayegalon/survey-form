@@ -94,4 +94,8 @@ option {
 		width: 95%;
 		margin-left: -1rem;
 	}
+	
+	input[type="radio"], input[type="checkbox"] {
+		width: 1.3rem;
+	}
 }
