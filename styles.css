@@ -90,10 +90,8 @@ option {
 }
 
 @media screen and (max-width: 480px) and (min-width: 320px) {
-	body {
-		padding-left: -7rem;
-	}
 	#survey-form {
-		width: 90%;
+		width: 95%;
+		margin-left: -1rem;
 	}
 }
