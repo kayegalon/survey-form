@@ -89,3 +89,15 @@ option {
 		padding-right: 2rem;
 	}
 }
+
+@media (max-width: 480px) and (min-width: 320px) {
+	body {
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
+	#survey-form {
+		width: 80%;
+		padding-bottom: 2rem;
+		padding-right: 2rem;
+	}
+}
