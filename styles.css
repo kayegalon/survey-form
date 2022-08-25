@@ -94,10 +94,11 @@ option {
 	body {
 		padding-left: 0;
 		padding-right: 0;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	
 	#survey-form {
-		margin-left: .5rem;
-		margin-right: .5rem;
+		width: 100%;
 	}
 }
