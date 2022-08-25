@@ -96,6 +96,6 @@ option {
 	}
 	
 	input[type="radio"], input[type="checkbox"] {
-		width: 3rem;
+		width: 2rem;
 	}
 }
