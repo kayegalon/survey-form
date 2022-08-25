@@ -92,5 +92,7 @@ option {
 @media screen and (max-width: 480px) and (min-width: 320px) {
 	#survey-form {
 		width: 90%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
