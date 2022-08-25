@@ -78,7 +78,7 @@ option {
   color: gray;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
 	body {
 		padding-left: 2rem;
 		padding-right: 2rem;
@@ -90,7 +90,7 @@ option {
 	}
 }
 
-@media (max-width: 480px) and (min-width: 320px) {
+@media screen and (max-width: 480px) and (min-width: 320px) {
 	body {
 		padding-left: 2rem;
 		padding-right: 2rem;
